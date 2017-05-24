@@ -114,5 +114,8 @@
         "browser": "index.js"
       }
     }
+  },
+  "devDependencies": {
+    "jspm": "^0.17.0-beta.41"
   }
-}
+}
